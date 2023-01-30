@@ -1,0 +1,37 @@
+Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50. 
+Write a JavaScript program to check whether a given positive number is a multiple of 3 or a multiple of 7. 
+Write a JavaScript program to check whether two given integer values are in the range 50..99 (inclusive). Return true if either of them are in the said range. 
+Write a JavaScript program to find the largest of three given integers. 
+Write a JavaScript program to check whether the last digit of the three given positive integers is same.
+Write a JavaScript program to reverse a given string.
+Write a JavaScript program to capitalize the first letter of each word of a given string
+Write a JavaScript program to convert a given number to hours and minutes. 
+Write a JavaScript program to convert the letters of a given string in alphabetical order.
+Write a JavaScript program to count the number of vowels in a given string.
+Write a JavaScript program to check whether a given string contains equal number of p's and t's.
+Write a JavaScript program to concatenate two strings except their first character.
+Write a JavaScript program to test whether a string end with "Script". The string length must be greater or equal to 6.
+Write a JavaScript function to check whether a string is blank or not.
+Write a JavaScript function to get the current date
+Write a JavaScript function to get the number of days in a month. 
+Write a JavaScript function to get the month name from a particular date.
+Write a JavaScript function to compare dates
+Write a JavaScript function to add specified minutes to a Date object.
+Write a JavaScript function to test whether a date is a weekend.
+Write a JavaScript function to get difference between two dates in days.
+Write a JavaScript function to get the amount of days of a year. 
+Write a JavaScript function to count the number of days passed since beginning of the year.
+Write a JavaScript function to convert a binary number to a decimal number.
+Write a JavaScript function to convert a decimal number to binary, hexadecimal or octal number. 
+Write a JavaScript function to format a number up to specified decimal places.
+Write a JavaScript function to convert a positive number to negative number. 
+Write a JavaScript function to clone an array.
+Write a JavaScript function to get the first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array
+Write a simple JavaScript program to join all elements of the following array into a string.
+ Write a JavaScript program to add items in an blank array and display the items.
+Write a JavaScript program to remove duplicate items from an array
+Write a JavaScript program to compute the union of two arrays. 
+Write a JavaScript program to list the properties of a JavaScript object.
+Write a Bubble Sort algorithm in JavaScript. 
+
