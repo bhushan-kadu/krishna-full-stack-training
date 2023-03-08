@@ -64,5 +64,10 @@ document.querySelector('.btn7').addEventListener('click', function () {
 });
 document.querySelector('.btn8').addEventListener('click', function () {
   let n16 = document.querySelector('.inp16').value;
-  document.querySelector('.chg8').textContent = n16.toUpperCase();
+  document.querySelector('.chg8').textContent =
+    n16[0].toUpperCase() + n16.substring(1);
+});
+document.querySelector('.btn9').addEventListener('click', function () {
+  let n17 = Number(document.querySelector('.inp17').value);
+  document.querySelector('.chg9').textContent = h;
 });
